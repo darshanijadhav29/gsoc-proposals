@@ -1,4 +1,4 @@
-# No starting with a / as this will work for future years.
+# No starting with a `/` as this will work for future years.
 # Owns any file in an "name" directory anywhere in your repository.
 astropy/ @gsoc/astropy
 juliaastro/ @gsoc/juliaastro
