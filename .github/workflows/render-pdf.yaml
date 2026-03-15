@@ -46,3 +46,4 @@ jobs:
           message: |
             Hello! [Here's your application in pdf](${{ steps.artifact.outputs.artifact-url}})
           github-token: ${{ secrets.comments}}
+          comment-tag: pdf
