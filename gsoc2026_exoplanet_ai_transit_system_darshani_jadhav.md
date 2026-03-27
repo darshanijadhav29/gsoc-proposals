@@ -1,11 +1,11 @@
 exoplanet_ai_transit-system
 
 ## Requirements  
-✅ Read OA contributor guide  
-✅ This is my own work, no LLMs  
-⏳ Will email Lightkurve team  
-⏳ Blog post later  
-⏳ PR contribution soon  
+✅ I've read OA contributor application guide
+✅ I confirm that this is my work and not made by LLMs
+⏳ I've introduced myself to the sub-organisation I'm applying for
+⏳ I've created a blog post and wrote something about the project I'm interested
+⏳ I've contributed at least one patch to the sub-organisation I'm applying for 
 
 Contributor Information
 
