@@ -1,5 +1,12 @@
 exoplanet_ai_transit-system
 
+## Requirements  
+✅ Read OA contributor guide  
+✅ This is my own work, no LLMs  
+⏳ Will email Lightkurve team  
+⏳ Blog post later  
+⏳ PR contribution soon  
+
 Contributor Information
 
 Name: Darshani Jadhav
