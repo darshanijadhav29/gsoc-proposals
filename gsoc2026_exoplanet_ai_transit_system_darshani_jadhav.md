@@ -32,7 +32,7 @@ Explain why this project is attractive to you and why you think you can do it.
 I love working with different space datasets and learning more from them. I have worked with Space Track[ TLE, satcat, decay, conjuction] and ESA DISCOS APIs for my space debris detection project, training RandomForest models for risk and decay prediction. I am familier with Lightkurve too from working with Kepler dataset in Space Apps Challenge. So I will be perfect fit for this project. So I'm pretty confident I can do this well.
 
 Deliverables
-1. AI code that finds transits in Lightkurve
+1. AI system that finds transits in Lightkurve
 2. Works with accuracy of 90%+ on Kepler/TESS/K2 data  
 3. Jupyter notebook with examples
 4. Tests + files so others can reuse
